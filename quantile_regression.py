@@ -30,8 +30,6 @@ How to Run:
 
 2. Run the script by providing the complete path to the CSV file:
 
-    python "C:\\Users\\266510\\Desktop\\DSRT930\\Living\\qauntile_regression.py" "C:\\Users\\266510\\Desktop\\DSRT930\\Living\\Q6_Q29_with_Constructs_Updated.csv"
-
 3. Required packages can be installed using:
 
     pip install pandas statsmodels
